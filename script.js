@@ -440,28 +440,28 @@ function showResult() {
 
   if (pct === 100) {
     trophy  = "🥇";
-    title   = "Xuất Sắc! Thiên Tài Tin Mừng!";
+    title   = "'Khéo lắm, hỡi đầy tớ tài giỏi và trung thành.' – Mt 25,21";
     message = "Tuyệt vời! Bạn trả lời đúng tất cả mọi câu hỏi. Lời Chúa đã thấm sâu vào trái tim bạn rồi!";
-    badge   = "🥇 Huy Chương Vàng";
+    badge   = "🥇 Huy Hiệu Xuất Sắc";
     launchConfetti();
   } else if (pct >= 80) {
     trophy  = "🥈";
-    title   = "Rất Giỏi! Học Trò Siêng Năng!";
+    title   = "'Phúc cho ai có lòng trong sạch, vì họ sẽ được thấy Thiên Chúa.' – Mt 5,8";
     message = "Bạn nắm vững hầu hết bài Tin Mừng. Cố gắng thêm một chút nữa để đạt điểm tuyệt đối nhé!";
-    badge   = "🥈 Huy Chương Bạc";
+    badge   = "🥈 Huy Hiệu Nhiệt Thành";
   } else if (pct >= 60) {
     trophy  = "🥉";
-    title   = "Tốt Lắm! Tiếp Tục Cố Gắng!";
+    title   = "'Phúc thay ai sầu khổ, vì họ sẽ được an ủi.' – Mt 5,4";
     message = "Bạn đã học được nhiều điều hay từ bài Tin Mừng. Hãy đọc lại và thử lại để ghi điểm cao hơn!";
-    badge   = "🥉 Huy Chương Đồng";
+    badge   = "🥉 Huy Hiệu Hiểu Biết";
   } else if (pct >= 40) {
     trophy  = "📖";
-    title   = "Cần Cố Gắng Thêm!";
+    title   = "'Anh thật có lòng tin.' – Mt 8,10";
     message = "Đừng nản lòng nhé! Hãy đọc lại bài Tin Mừng thật kỹ rồi thử lại. Chúa luôn yêu thương bạn!";
-    badge   = "📖 Huy Hiệu Học Viên";
+    badge   = "📖 Huy Hiệu Chăm Chỉ";
   } else {
     trophy  = "🌱";
-    title   = "Hãy Tiếp Tục Học Hỏi!";
+    title   = "'Đức tin của con đã cứu con.' – Mc 10,52";
     message = "Đây là bước khởi đầu. Mỗi ngày đọc Tin Mừng một ít, bạn sẽ sớm trở thành chuyên gia đấy!";
     badge   = "🌱 Huy Hiệu Mầm Non";
   }

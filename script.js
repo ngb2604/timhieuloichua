@@ -210,7 +210,7 @@ const DATA = {
         q: "Đức Giê-su nói các môn đệ đừng làm gì?",
         options: ["Đừng buồn ngủ", "Đừng xao xuyến", "Đừng nói chuyện", "Đừng đi xa"],
         correct: 1,
-        explain: ""Xao xuyến” nghĩa là lo lắng, sợ hãi. Đức Giê-su muốn các môn đệ bình an, đừng lo, vì đã có Chúa ở cùng."
+        explain: "'Xao xuyến' nghĩa là lo lắng, sợ hãi. Đức Giê-su muốn các môn đệ bình an, đừng lo, vì đã có Chúa ở cùng."
       },
       {
         q: "Đức Giê-su bảo các môn đệ hãy tin vào ai?",

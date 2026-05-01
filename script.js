@@ -202,39 +202,39 @@ const DATA = {
   5: {
     scripture: {
       title: "Chúa Giêsu Chịu Đóng Đinh",
-      text: "Khi đến nơi gọi là Sọ, chúng đóng đinh Người vào thập giá. Chúa Giêsu nói: 'Lạy Cha, xin tha cho họ, vì họ không biết việc họ làm.' Bên cạnh Ngài, có hai người bị đóng đinh vào thập giá cùng một lúc, một người bên phải, một người bên trái.",
+      text: "Khi ấy, Đức Giê-su nói với các môn đệ rằng : “Anh em đừng xao xuyến ! Hãy tin vào Thiên Chúa và tin vào Thầy. Trong nhà Cha Thầy, có nhiều chỗ ở ; nếu không, Thầy đã nói với anh em rồi, vì Thầy đi dọn chỗ cho anh em. Nếu Thầy đi dọn chỗ cho anh em, thì Thầy lại đến và đem anh em về với Thầy, để Thầy ở đâu, anh em cũng ở đó. Và Thầy đi đâu, thì anh em biết đường rồi.” Ông Tô-ma nói với Đức Giê-su : “Thưa Thầy, chúng con không biết Thầy đi đâu, làm sao biết được đường ?” Đức Giê-su đáp : “Chính Thầy là con đường là sự thật và là sự sống. Không ai có thể đến với Chúa Cha mà không qua Thầy.”",
       ref: "Lc 23, 33-43"
     },
     questions: [
       {
-        q: "Địa điểm Chúa Giêsu bị đóng đinh gọi là gì?",
-        options: ["Bêlem", "Giêrusalem", "Núi Tabor", "Đồi Sọ (Golgotha)"],
-        correct: 3,
-        explain: "Chúa Giêsu bị đóng đinh tại Đồi Sọ – tiếng Aram là Golgotha."
+        q: "Đức Giê-su nói các môn đệ đừng làm gì?",
+        options: ["Đừng buồn ngủ", "Đừng xao xuyến", "Đừng nói chuyện", "Đừng đi xa"],
+        correct: 1,
+        explain: ""Xao xuyến” nghĩa là lo lắng, sợ hãi. Đức Giê-su muốn các môn đệ bình an, đừng lo, vì đã có Chúa ở cùng."
       },
       {
-        q: "Lời cầu nguyện đầu tiên của Chúa Giêsu trên thập giá là gì?",
-        options: ["Lạy Cha, con xin phó thác hồn con", "Lạy Cha, xin tha cho họ vì họ không biết việc họ làm", "Trời ơi, sao Cha bỏ con?", "Ta khát!"],
-        correct: 1,
-        explain: "Dù đang đau đớn, Chúa Giêsu cầu xin Cha tha tội cho những kẻ hành hạ Ngài – tình yêu vô bờ."
+        q: "Đức Giê-su bảo các môn đệ hãy tin vào ai?",
+        options: ["Bạn bè", "Chính mình", "Thiên Chúa và Thầy", "Người lạ"],
+        correct: 2,
+        explain: "Đức Giê-su dạy các môn đệ tin tưởng vào Thiên Chúa và chính Ngài, vì Ngài luôn yêu thương và dẫn dắt chúng ta."
       },
       {
-        q: "Người trộm lành đã xin Chúa Giêsu điều gì?",
-        options: ["Cứu tôi xuống khỏi thập giá", "Khi Ngài vào Nước Ngài, xin nhớ đến tôi", "Cho tôi được đi theo Ngài", "Tha tội cho tôi"],
+        q: "Trong nhà Cha có gì?",
+        options: ["Nhiều vàng bạc", "Nhiều chỗ ở", "Nhiều cây", "Nhiều sách"],
         correct: 1,
-        explain: "Người trộm lành thưa: 'Khi Ngài vào Nước Ngài, xin nhớ đến tôi' – đức tin vào giờ phút cuối."
+        explain: "“Nhà Cha” là Nước Trời. Có “nhiều chỗ ở” nghĩa là Chúa chuẩn bị chỗ cho tất cả mọi người, ai cũng có thể đến ở với Chúa."
       },
       {
-        q: "Chúa Giêsu trả lời người trộm lành ra sao?",
-        options: ["Hãy ăn năn sám hối", "Hôm nay anh sẽ ở với Ta trên thiên đàng", "Đức tin của anh đã cứu anh", "Tôi sẽ cầu nguyện cho anh"],
-        correct: 1,
-        explain: "'Hôm nay anh sẽ ở với Ta trên thiên đàng' – lời hứa về ơn cứu độ ngay trong giờ chết."
+        q: "Ai đã hỏi Đức Giê-su: “Chúng con không biết Thầy đi đâu”?",
+        options: ["Phê-rô", "Gio-an", "Tô-ma", "Giu-đa"],
+        correct: 2,
+        explain: "Ông Tô-ma chưa hiểu lời Chúa nói nên đã hỏi lại. Điều này cho thấy khi không hiểu, chúng ta có thể hỏi Chúa để được hướng dẫn."
       },
       {
-        q: "Bài Tin Mừng hôm nay dạy chúng ta điều gì về Chúa Giêsu?",
-        options: ["Chúa rất quyền năng", "Chúa yêu thương và tha thứ ngay cả kẻ thù", "Chúa buồn vì bị phản bội", "Chúa muốn được tôn vinh"],
-        correct: 1,
-        explain: "Tình yêu của Chúa Giêsu vĩ đại đến mức Ngài cầu nguyện tha thứ cho những người giết hại Ngài."
+        q: "Đức Giê-su nói: “Chính Thầy là gì?”",
+        options: ["Ánh sáng", "Người chăn chiên", "Con đường, sự thật và sự sống", "Vua"],
+        correct: 2,
+        explain: "Đức Giê-su là con đường dẫn chúng ta đến với Thiên Chúa, là sự thật giúp ta sống đúng, và là sự sống đem lại niềm vui và sự sống đời đời."
       }
     ]
   },

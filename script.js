@@ -201,9 +201,9 @@ const DATA = {
   },
   5: {
     scripture: {
-      title: "Chúa Giêsu Chịu Đóng Đinh",
+      title: "Chúa Giêsu là Đường, Sự Thật và Sự Sống",
       text: "Khi ấy, Đức Giê-su nói với các môn đệ rằng : “Anh em đừng xao xuyến ! Hãy tin vào Thiên Chúa và tin vào Thầy. Trong nhà Cha Thầy, có nhiều chỗ ở ; nếu không, Thầy đã nói với anh em rồi, vì Thầy đi dọn chỗ cho anh em. Nếu Thầy đi dọn chỗ cho anh em, thì Thầy lại đến và đem anh em về với Thầy, để Thầy ở đâu, anh em cũng ở đó. Và Thầy đi đâu, thì anh em biết đường rồi.” Ông Tô-ma nói với Đức Giê-su : “Thưa Thầy, chúng con không biết Thầy đi đâu, làm sao biết được đường ?” Đức Giê-su đáp : “Chính Thầy là con đường là sự thật và là sự sống. Không ai có thể đến với Chúa Cha mà không qua Thầy.”",
-      ref: "Lc 23, 33-43"
+      ref: "Ga 14, 1-6"
     },
     questions: [
       {
